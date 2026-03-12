@@ -1,0 +1,396 @@
+[ {
+  "f1" : {
+    "nickname" : "Tiger",
+    "affiliation" : "Engineering",
+    "weight" : 65.0,
+    "height" : 170.0,
+    "weightClass" : "Lightweight"
+  },
+  "f2" : {
+    "nickname" : "Dragon",
+    "affiliation" : "Medicine",
+    "weight" : 68.0,
+    "height" : 175.0,
+    "weightClass" : "Lightweight"
+  },
+  "seats" : [ {
+    "seatId" : "A1",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B1",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C1",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A2",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B2",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C2",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A3",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B3",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C3",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A4",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B4",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C4",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A5",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B5",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C5",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A6",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B6",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C6",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A7",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B7",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C7",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A8",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B8",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C8",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A9",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B9",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C9",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A10",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B10",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C10",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A1",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B1",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C1",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A2",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B2",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C2",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A3",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B3",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C3",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A4",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B4",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C4",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A5",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B5",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C5",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A6",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B6",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C6",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A7",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B7",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C7",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A8",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B8",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C8",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A9",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B9",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C9",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "A10",
+    "zone" : "A",
+    "basePrice" : 1000.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "B10",
+    "zone" : "B",
+    "basePrice" : 500.0,
+    "isBooked" : false,
+    "booked" : false
+  }, {
+    "seatId" : "C10",
+    "zone" : "C",
+    "basePrice" : 200.0,
+    "isBooked" : false,
+    "booked" : false
+  } ],
+  "matchDateTime" : [ 2026, 3, 13, 22, 27, 21, 150596600 ],
+  "discipline" : "MUAY_THAI",
+  "formattedDate" : "13/03/2026",
+  "matchTitle" : "Tiger vs Dragon",
+  "fighter2" : {
+    "nickname" : "Dragon",
+    "affiliation" : "Medicine",
+    "weight" : 68.0,
+    "height" : 175.0,
+    "weightClass" : "Lightweight"
+  },
+  "formattedTime" : "22:27",
+  "fighter1" : {
+    "nickname" : "Tiger",
+    "affiliation" : "Engineering",
+    "weight" : 65.0,
+    "height" : 170.0,
+    "weightClass" : "Lightweight"
+  }
+} ]
