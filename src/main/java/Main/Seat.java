@@ -19,11 +19,11 @@ public class Seat extends JFrame {
     private JLabel statusLabel;
 
     public Seat() {
-        initInventory(); // โหลดข้อมูลที่นั่งว่าง
-        
-        setTitle("KKU ARENA - UNLIMITED BOOKING (RED-BLACK)");
+        initInventory();
+        setTitle("KKU ARENA - UNLIMITED BOOKING");
         setSize(950, 950);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        // เปลี่ยนจาก EXIT_ON_CLOSE เป็น DISPOSE_ON_CLOSE
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE); 
         setLayout(new BorderLayout());
 
         // แผงหลัก (Grid 7x7)
