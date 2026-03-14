@@ -228,6 +228,7 @@ public class MainApp extends Application {
         mainLayout.setCenter(scrollPane);
     }
 
+ // ค้นหาเมธอดเดิมใน MainApp.java แล้วเปลี่ยนเป็นแบบนี้:
     private HBox createMatchCard(String f1, String f2, String type, String date) {
         VBox info = new VBox(5);
         Label fighters = new Label(f1 + " VS " + f2);
@@ -240,10 +241,17 @@ public class MainApp extends Application {
 
         Button bookBtn = new Button("จองตั๋ว");
         bookBtn.setStyle("-fx-background-color:#ff1a1a; -fx-text-fill:white; -fx-font-weight:bold;");
+        
+        // --- จุดที่แก้ไข: เมื่อกดปุ่มจองตั๋ว จะไปเรียกหน้า Seat (Swing) ---
         bookBtn.setOnAction(e -> {
             selectedMatch = f1 + " VS " + f2;
-            showSeatSelection();
+            
+            // เรียกใช้ SwingUtilities เพื่อเปิดหน้าต่าง Seat
+            javax.swing.SwingUtilities.invokeLater(() -> {
+                new Seat().setVisible(true); // สร้าง Object Seat และสั่งให้แสดงผล
+            });
         });
+        // --------------------------------------------------------
 
         Region spacer = new Region();
         HBox.setHgrow(spacer, Priority.ALWAYS);
